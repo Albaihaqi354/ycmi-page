@@ -1,10 +1,10 @@
 # 🌱 YCMI Website
 
-Landing page resmi Yayasan Campoes Masyarakat Indonesia (YCMI) — sebuah yayasan sosial dan pendidikan non-formal yang bergerak di bidang kemasyarakatan, pendidikan, dan pemberdayaan.
+A modern landing page for **Yayasan Campoes Masyarakat Indonesia (YCMI)** — a social and non-formal education foundation focused on community development, education, and empowerment.
 
-Website ini dibangun dengan pendekatan modern menggunakan Next.js dan Tailwind CSS, serta dirancang untuk responsif, informatif, dan mudah dikembangkan lebih lanjut.
+This website was built using modern technologies like Next.js and Tailwind CSS. It is designed to be responsive, informative, and easy to maintain and scale.
 
-> 🎯 Proyek ini dibuat untuk kebutuhan organisasi dan juga menjadi bagian dari portofolio pribadi saya, [Bian Albaihaqi](https://github.com/albaihaqi354).
+> 🎯 This project was created for organizational needs and also serves as part of my personal portfolio, [Bian Albaihaqi](https://github.com/albaihaqi354).
 
 ## 🚀 Demo
 
@@ -12,18 +12,18 @@ Website ini dibangun dengan pendekatan modern menggunakan Next.js dan Tailwind C
 
 ---
 
-## 📦 Fitur
+## 📦 Features
 
-- 🎨 Desain bersih dan responsif
-- 📄 Navigasi ke bagian: Beranda, Tentang Kami, Program, Testimoni, Relawan, dan Kontak
-- 📱 Tampilan mobile dengan menu hamburger
-- 🧭 Scroll ke section secara smooth
-- 📍 Integrasi peta Google Maps untuk lokasi yayasan
-- ⚡ Ringan dan cepat diakses
+- 🎨 Clean and responsive design
+- 📄 Smooth navigation across key sections: Home, About, Programs, Testimonials, Volunteers, and Contact
+- 📱 Mobile-friendly with hamburger menu
+- 🧭 Smooth scrolling to sections
+- 📍 Embedded Google Maps for location
+- ⚡ Lightweight and fast performance
 
 ---
 
-## 🛠️ Stack Teknologi
+## 🛠️ Tech Stack
 
 - **Framework**: [Next.js](https://nextjs.org/)
 - **Styling**: [Tailwind CSS](https://tailwindcss.com/)
@@ -34,8 +34,4 @@ Website ini dibangun dengan pendekatan modern menggunakan Next.js dan Tailwind C
 
 ## 🙌 Credits
 
-Website ini dikembangkan oleh Bian Albaihaqi untuk keperluan Yayasan Campoes Masyarakat Indonesia (YCMI), sekaligus sebagai dokumentasi portofolio pribadi.
-
----
-
-© 2025 YCMI. All rights reserved.
+This website was developed by Bian Albaihaqi for **Yayasan Campoes Masyarakat Indonesia**
