@@ -8,7 +8,7 @@ Website ini dibangun dengan pendekatan modern menggunakan Next.js dan Tailwind C
 
 ## 🚀 Demo
 
-🔗 [Live Preview](https://yayasan-website-jet.vercel.app/)
+🔗 [Live Preview](https://yayasan-website-6qaf3awhl-albaihaqi354s-projects.vercel.app/)
 
 ---
 
