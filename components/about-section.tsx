@@ -42,20 +42,20 @@ export default function AboutSection() {
 
           <div className="grid lg:grid-cols-2 gap-12 items-center mb-16">
             {/* Story */}
-            <div>
+             <div>
               <h3 className="text-2xl font-bold text-primary mb-6">Cerita Kami</h3>
-              <div className="space-y-4 text-gray-700">
+              <div className="space-y-4 text-gray-700 text-justify">
                 <p>
-                  Yayasan Campoes Masyarakat Indonesia lahir dari kepedulian sekelompok individu yang melihat banyaknya anak-anak kurang
-                  mampu yang tidak mendapatkan akses pendidikan dan kesehatan yang layak.
+                  Yayasan Campoes Masyarakat Indonesia lahir dari kepedulian sekelompok individu yang melihat banyaknya
+                  anak-anak kurang mampu yang tidak mendapatkan akses pendidikan dan kesehatan yang layak.
                 </p>
                 <p>
-                  Dengan semangat gotong royong dan komitmen untuk menciptakan perubahan positif, kami mulai dengan
+                  Dengan semangat gotong royong dan komitmen untuk menciptakan perubahan positif, kami memulai dengan
                   program-program kecil di komunitas lokal dan terus berkembang hingga saat ini.
                 </p>
                 <p>
-                  Hari ini, kami bangga telah membantu ribuan anak dan keluarga melalui berbagai program pendidikan,
-                  kesehatan, dan pemberdayaan masyarakat.
+                  Pada hari ini, kami bangga telah membantu ribuan anak dan keluarga melalui berbagai program
+                  pendidikan, kesehatan, dan pemberdayaan masyarakat.
                 </p>
               </div>
             </div>
@@ -76,7 +76,7 @@ export default function AboutSection() {
             <Card className="border-l-4 border-l-secondary">
               <CardContent className="p-8">
                 <h3 className="text-2xl font-bold text-primary mb-4">Visi Kami</h3>
-                <p className="text-gray-700">
+                <p className="text-gray-700 text-justify">
                   Menjadi yayasan terdepan dalam menciptakan masyarakat yang sejahtera, berdaya, dan memiliki akses yang
                   sama terhadap pendidikan dan kesehatan berkualitas.
                 </p>
@@ -86,11 +86,11 @@ export default function AboutSection() {
             <Card className="border-l-4 border-l-accent">
               <CardContent className="p-8">
                 <h3 className="text-2xl font-bold text-primary mb-4">Misi Kami</h3>
-                <ul className="text-gray-700 space-y-2">
+                <ul className="text-gray-700 space-y-2 text-justify">
                   <li>• Menyediakan akses pendidikan berkualitas untuk anak-anak kurang mampu</li>
                   <li>• Meningkatkan kesehatan masyarakat melalui program-program kesehatan</li>
-                  <li>• Memberdayakan masyarakat untuk mandiri secara ekonomi</li>
-                  <li>• Melestarikan lingkungan untuk generasi mendatang</li>
+                  <li>• Memberdayakan masyarakat agar mandiri secara ekonomi</li>
+                  <li>• Melestarikan lingkungan untuk generasi yang akan datang</li>
                 </ul>
               </CardContent>
             </Card>

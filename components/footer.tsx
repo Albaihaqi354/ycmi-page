@@ -24,7 +24,7 @@ export default function Footer() {
                 </div>
                 <span className="text-xl font-bold">YCMI</span>
               </div>
-              <p className="text-gray-300 mb-6 leading-relaxed">
+              <p className="text-gray-300 mb-6 leading-relaxed text-justify">
                 Membangun masa depan yang lebih baik melalui aksi nyata untuk pendidikan, kesehatan, dan pemberdayaan
                 masyarakat.
               </p>
@@ -182,7 +182,7 @@ export default function Footer() {
         {/* Bottom Footer */}
         <div className="border-t border-white/10 py-8">
           <div className="flex flex-col md:flex-row justify-between items-center space-y-4 md:space-y-0">
-            <div className="text-gray-300 text-sm">© 2024 Yayasan Harapan. Semua hak cipta dilindungi.</div>
+            <div className="text-gray-300 text-sm">© 2025 Yayasan Campoes Masyrakat Indonesia. Semua hak cipta dilindungi.</div>
             <div className="flex space-x-6 text-sm">
               <a href="#" className="text-gray-300 hover:text-secondary transition-colors">
                 Kebijakan Privasi

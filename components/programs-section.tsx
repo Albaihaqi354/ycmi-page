@@ -52,7 +52,7 @@ export default function ProgramsSection() {
           {/* Header */}
           <div className="text-center mb-16">
             <h2 className="text-3xl md:text-4xl font-bold text-primary mb-4">Program Unggulan Kami</h2>
-            <p className="text-xl text-gray-600 max-w-3xl mx-auto">
+            <p className="text-xl text-gray-600 max-w-3xl mx-auto text-justify">
               Berbagai program yang dirancang untuk memberikan dampak positif dan berkelanjutan bagi masyarakat
             </p>
           </div>
@@ -70,7 +70,7 @@ export default function ProgramsSection() {
                     </div>
                     <div>
                       <h3 className="text-xl font-bold text-primary mb-2">{program.title}</h3>
-                      <p className="text-gray-600">{program.description}</p>
+                      <p className="text-gray-600 text-justify">{program.description}</p>
                     </div>
                   </div>
 
@@ -102,7 +102,7 @@ export default function ProgramsSection() {
           <div className="text-center mt-16">
             <div className="bg-gradient-to-r from-primary to-accent rounded-2xl p-8 text-white">
               <h3 className="text-2xl font-bold mb-4">Ingin Mendukung Program Kami?</h3>
-              <p className="text-lg mb-6 opacity-90">
+              <p className="text-lg mb-6 opacity-90 text-justify max-w-2xl mx-auto">
                 Setiap kontribusi Anda akan memberikan dampak nyata bagi mereka yang membutuhkan
               </p>
               <div className="flex flex-col sm:flex-row gap-4 justify-center">
@@ -112,7 +112,7 @@ export default function ProgramsSection() {
                 <Button
                   size="lg"
                   variant="outline"
-                  className="border-white text-secondary hover:bg-white hover:text-primary"
+                  className="border-white text-white hover:bg-white hover:text-primary"
                 >
                   Jadi Relawan
                 </Button>
