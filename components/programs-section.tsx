@@ -112,7 +112,7 @@ export default function ProgramsSection() {
                 <Button
                   size="lg"
                   variant="outline"
-                  className="border-white text-white hover:bg-white hover:text-primary"
+                  className="border-white text-secondary hover:bg-white hover:text-primary"
                 >
                   Jadi Relawan
                 </Button>
